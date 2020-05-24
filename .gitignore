@@ -1,0 +1,10 @@
+*.csv
+*.pdf
+tree
+*.xlsx
+*.data
+iris
+.DS_Store
+.ipynb_checkpoints/
+Untitled.ipynb
+
